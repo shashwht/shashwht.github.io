@@ -118,3 +118,14 @@ a:hover {
         height: 180px;
     }
 }
+
+.sidebar-links a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sidebar-links i {
+    width: 20px;
+    color: #1d72b8;
+}
