@@ -101,7 +101,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
 @media (max-width: 900px) {
 
     .container {
@@ -139,21 +138,6 @@ a:hover {
 
     h2 {
         font-size: 1.8rem;
-    }
-}
-
-    .container {
-        flex-direction: column;
-        padding: 25px;
-    }
-
-    .sidebar {
-        width: 100%;
-    }
-
-    .profile-image {
-        width: 180px;
-        height: 180px;
     }
 }
 
